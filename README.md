@@ -72,6 +72,54 @@ Intelligent systems and robotics laboratory
   
   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm-pro-2.png)
   
+  
+
+# Research and technology development
+
+ "Toy Artificial Intelligence" science, technology and engineering laboratory is a non-profit organisation, which operates on an independent creative platform of experimental development research in the field of intelligent system and mechanics, based on computational linguistics, automatic natural language processing and mechatronics concepts by inventor Lado Oniani.
+
+ Implementation startup based on theory of logic was started in 2016 in home laboratory environment with multidisciplinary engineering approach, designing an operating program of robot training and conversation model semantic analysis and motility operator methods.
+
+***
+
+ Research in the lab focuses on the development of operating system and robotics, inspired and based on idea of experiment create information processing algorithms and control methods to design artificial conversational entity cognitive/associative learning/dialogue system integrated with anthropomorphic and bio-inspired robotics architecture.
+
+ Development is focused on forming intercommunication habitat network environment and assistive technology, adaptable for specialized use such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment.
+
+ Work fuses development of computing techniques in computational linguistics, natural language processing/generation, machine/robot learning, computer vision scene understanding and mechanical engineering.
+
+***
+
+ Research and conceptual experiment in design of artificial environment and synthetic entity processes creation references to search of the clues in fundamental science of consciousness and universe interdependence.
+
+ The subject determines behavior, depending on its environment and rule conditions, defines action, creates or looks for the method, makes logical conclusion or abstract choice, selecting and using available information or search for alternatives.
+
+
+***
+
+ Imagine that in current stage of the human evolution we should pass through the change in our development process, in this case with imperative use and intervention of mind to deal with such global task. To achieve this result, it is enough consider obvious constants of condition, such as mercy and health against cruelty and disease, to accelerate process for benefit, just by rejection of organic food, make significant step in act of biological revolution, and what is even more important "conscious choice". Accessibility of such reasoned and seemingly simple choice largely depends on rules of our learning, where evaluating the meaning of values plays a key role in decision making, directly related to associative context and personal experience, which determine a lot in the mechanism of subjective attitude and interpretation of objective state.
+
+ This model is applicable to derivative systems endowed with weak, but similar ability of behavior and analytically simpler to understand and control. Convenient to use figurative comparison where using of tool does not defines tool, as content of a vessel does not defines a vessel, but correct relation determines value for both.
+
+ This idea provokes an experiment that should observe how cognitive abstraction would develop with reflective experience, capable differentiate content based meaning and use logic to find relationship between the value and object.
+
+***
+
+ Prototype custom technology production includes information processing algorithms, control methods and implementing terminal application software desktop and web platform of Unit Network environment, as well as inventing mechanics aimed on modeling and designing humanoid anthropomorphic robot architecture.
+
+ Technology development and experiment focuses on creation of invention prototype design solution based on cognitive abstraction original concepts and research.
+
+***
+
+ Principal course is aimed to expansion semantic processing core as a main system layer. Vision focused on evolution of training and conversation model operation control with number of directions on conceptual basis, which Implies a deepening of abstraction to reach understanding by inherent characteristics and create system able to learn and interact using unique content of personal memory as key to the abstract path in process of creation building blocks of contextual association system. Inclusion of an experimental toy-brain into a toy-body with user access, technologically oriented on simplicity and softness of behavior and usage in interaction feedback of cognitive recall impression.
+
+ Functionally surrounded void of artificial entity, that does not knows anything by default, able endlessly learn from you, understand meaning of growing information and use it to build own synthetic personality, become perceptive carrier to reflect and inference received informational knowledge in natural way of dynamic conversation.
+
+***
+
+ Conversational interaction environment prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure.
+
+ Training and conversation processing provides grow of personal memory as useful overlay and output display communication access to key controls and operation data for experimental usage as test tool incarnation. Considers creation of surrogate platform based on original system, such as library of functions and adaptive control module device.
 
 
   
