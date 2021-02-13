@@ -23,7 +23,9 @@ Intelligent systems and robotics laboratory
 # Software and device
 
   Terbinari operating program represents interactive training and conversation model, natural language processing semantic analysis/matching logic algorithms and controller operating methods.
-
+  
+  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-app.jpg)
+ 
   Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. Cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
   Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
