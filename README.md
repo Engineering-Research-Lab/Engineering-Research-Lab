@@ -17,7 +17,9 @@ Intelligent systems and robotics laboratory
 ## CBM - Control Bot Mechanism
 
 • Robot device
- 
+
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
+
 # Software and device
 
   Terbinari operating program represents interactive training and conversation model, natural language processing semantic analysis/matching logic algorithms and controller operating methods.
