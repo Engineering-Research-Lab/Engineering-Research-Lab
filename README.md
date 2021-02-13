@@ -70,7 +70,7 @@ Intelligent systems and robotics laboratory
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language.
   
-  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm-pro-2.png)
+  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm.png)
   
   
 
