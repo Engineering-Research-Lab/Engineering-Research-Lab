@@ -28,8 +28,8 @@ Intelligent systems and robotics laboratory
     
 # Conversations
 
- Following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
-
+ Following ![video session](https://www.youtube.com/watch?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&v=m1xcjhqGcHw&feature=youtu.be) represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
+  
 ## Overview
 
   Operating program interface interacts with training and conversation system response output personified in artificial entity endowed with individual memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods, which mechanical recall provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
