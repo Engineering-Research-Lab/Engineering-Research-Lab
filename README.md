@@ -2,8 +2,8 @@
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
-Toy Artificial Intelligence
-Research, innovation and technology development
+Toy Artificial Intelligence\
+Research, innovation and technology development\
 Intelligent systems and robotics laboratory 
 
 ## Terbinari - Operating program
