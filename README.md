@@ -47,6 +47,25 @@ Intelligent systems and robotics laboratory
  Training and conversation starts from empty memory content, during dialog, void starts fill up and grow by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified memory content to reflect and manipulate with direct return, search or generating answer through the processing and understanding of existing content, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and request for new key of value.
 
  Return of direct answers to given questions prescribing by user/interlocutor through the processing core directly reflects or operates to understand content of conversation, defining answer, and building personality structure to output cognitive recall on computational semantics level.
+ 
+ # Functionality
+
+  Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
+  
+   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png)
+
+  • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
+
+  • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
+  
+   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg)
+  
+  • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state with answer not found condition search method and speak with mouth lips viseme motility event.
+
+  • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
+
+  Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language.
+
 
   
   
