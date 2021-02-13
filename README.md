@@ -18,7 +18,7 @@ Intelligent systems and robotics laboratory
 
 • Robot device
 
- <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)-->
+ ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
 # Software and device
 
