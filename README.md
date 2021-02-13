@@ -18,7 +18,7 @@ Intelligent systems and robotics laboratory
 
 • Robot device
 
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
+ <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)-->
 
 # Software and device
 
@@ -28,13 +28,13 @@ Intelligent systems and robotics laboratory
 
   Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
   
-   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-app.jpg)
+    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-app.jpg)-->
  
 # Conversations
 
  Following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
   
-  [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
+   <!--[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)-->
     
 ## Overview
 
@@ -56,13 +56,13 @@ Intelligent systems and robotics laboratory
 
   Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
   
-   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png)
+    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png)-->
 
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
   • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
   
-   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg)
+    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg)-->
   
   • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state with answer not found condition search method and speak with mouth lips viseme motility event.
 
@@ -70,56 +70,16 @@ Intelligent systems and robotics laboratory
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language.
   
-  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm-robot-device.png)
+  <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm-robot-device.png)-->
   
   
-
 # Research and technology development
 
- "Toy Artificial Intelligence" science, technology and engineering laboratory is a non-profit organisation, which operates on an independent creative platform of experimental development research in the field of intelligent system and mechanics, based on computational linguistics, automatic natural language processing and mechatronics concepts by inventor Lado Oniani.
+ "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics, based on computational linguistics, automatic natural language processing and mechatronics concepts by inventor Lado Oniani. 
 
- Implementation startup based on theory of logic was started in 2016 in home laboratory environment with multidisciplinary engineering approach, designing an operating program of robot training and conversation model semantic analysis and motility operator methods.
+ Implementation startup based on theory of logic was started in 2016 in home laboratory environment with multidisciplinary engineering approach, inspired and based on idea of experiment create information processing algorithms and operation control methods to design artificial conversational entity cognitive/associative learning/dialogue system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, forming assistive technology, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
-***
-
- Research in the lab focuses on the development of operating system and robotics, inspired and based on idea of experiment create information processing algorithms and control methods to design artificial conversational entity cognitive/associative learning/dialogue system integrated with anthropomorphic and bio-inspired robotics architecture.
-
- Development is focused on forming intercommunication habitat network environment and assistive technology, adaptable for specialized use such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment.
-
- Work fuses development of computing techniques in computational linguistics, natural language processing/generation, machine/robot learning, computer vision scene understanding and mechanical engineering.
-
-***
-
- Research and conceptual experiment in design of artificial environment and synthetic entity processes creation references to search of the clues in fundamental science of consciousness and universe interdependence.
-
- The subject determines behavior, depending on its environment and rule conditions, defines action, creates or looks for the method, makes logical conclusion or abstract choice, selecting and using available information or search for alternatives.
-
-
-***
-
- Imagine that in current stage of the human evolution we should pass through the change in our development process, in this case with imperative use and intervention of mind to deal with such global task. To achieve this result, it is enough consider obvious constants of condition, such as mercy and health against cruelty and disease, to accelerate process for benefit, just by rejection of organic food, make significant step in act of biological revolution, and what is even more important "conscious choice". Accessibility of such reasoned and seemingly simple choice largely depends on rules of our learning, where evaluating the meaning of values plays a key role in decision making, directly related to associative context and personal experience, which determine a lot in the mechanism of subjective attitude and interpretation of objective state.
-
- This model is applicable to derivative systems endowed with weak, but similar ability of behavior and analytically simpler to understand and control. Convenient to use figurative comparison where using of tool does not defines tool, as content of a vessel does not defines a vessel, but correct relation determines value for both.
-
- This idea provokes an experiment that should observe how cognitive abstraction would develop with reflective experience, capable differentiate content based meaning and use logic to find relationship between the value and object.
-
-***
-
- Prototype custom technology production includes information processing algorithms, control methods and implementing terminal application software desktop and web platform of Unit Network environment, as well as inventing mechanics aimed on modeling and designing humanoid anthropomorphic robot architecture.
-
- Technology development and experiment focuses on creation of invention prototype design solution based on cognitive abstraction original concepts and research.
-
-***
-
- Principal course is aimed to expansion semantic processing core as a main system layer. Vision focused on evolution of training and conversation model operation control with number of directions on conceptual basis, which Implies a deepening of abstraction to reach understanding by inherent characteristics and create system able to learn and interact using unique content of personal memory as key to the abstract path in process of creation building blocks of contextual association system. Inclusion of an experimental toy-brain into a toy-body with user access, technologically oriented on simplicity and softness of behavior and usage in interaction feedback of cognitive recall impression.
-
- Functionally surrounded void of artificial entity, that does not knows anything by default, able endlessly learn from you, understand meaning of growing information and use it to build own synthetic personality, become perceptive carrier to reflect and inference received informational knowledge in natural way of dynamic conversation.
-
-***
-
- Conversational interaction environment prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure.
-
- Training and conversation processing provides grow of personal memory as useful overlay and output display communication access to key controls and operation data for experimental usage as test tool incarnation. Considers creation of surrogate platform based on original system, such as library of functions and adaptive control module device.
+ Invention consist of training and conversation model, semantic analysis and motility operator methods with a focus on development of computing techniques in computational linguistics, natural language processing/generation, machine/robot learning, computer vision scene understanding and mechanical engineering, modeling and designing of prototype custom technology solution, based on  original concepts and research.
 
 # Support project
   
