@@ -26,4 +26,4 @@ Intelligent systems and robotics laboratory
 
   Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
   
-  [![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/watch?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU/maxresdefault.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
+  [![IMAGE ALT TEXT HERE](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
