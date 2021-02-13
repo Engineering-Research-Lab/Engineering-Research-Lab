@@ -121,8 +121,22 @@ Intelligent systems and robotics laboratory
 
  Training and conversation processing provides grow of personal memory as useful overlay and output display communication access to key controls and operation data for experimental usage as test tool incarnation. Considers creation of surrogate platform based on original system, such as library of functions and adaptive control module device.
 
+# Support project
+  
+  Laboratory founded as non profit scientific and engineering organization.
 
-  
-  
+Practical experience and development process in research is aimed to create and investigate synthetic entity architecture and behavior.
+
+The philosophy of vision in research, inspired and motivated by concept to invent and build experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies, as well as implying prototyping and manufacturing products with commercial potential.
+
+Research and development includes a number of areas, such as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design
+
+Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
+
+To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
+
+At this stage we are preparing for presentation event with research overview and Terbinari CBM robot demonstration, planned in May of 2021, exact date/location will be announced later.
+
+To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
   
 
