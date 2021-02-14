@@ -6,8 +6,8 @@ Toy Artificial Intelligence\
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory 
 
-## Terbinari - Operating program 
-# Tet  - Artificial conversational entity
+# Terbinari - Operating program 
+## Tet  - Artificial conversational entity
 • Training and conversation model\
 • Semantic processing algorithms\
 • Controller operating methods
