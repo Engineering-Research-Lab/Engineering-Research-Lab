@@ -28,14 +28,10 @@ Intelligent systems and robotics laboratory
 
   Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
   
-    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-app.jpg)-->
- 
 # Conversations
 
  Following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
-  
-   <!--[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)-->
-    
+ 
 ## Overview
 
   Operating program interface interacts with training and conversation system response output personified in artificial entity endowed with individual memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods, which mechanical recall provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
@@ -56,13 +52,9 @@ Intelligent systems and robotics laboratory
 
   Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
   
-    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png)-->
-
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
   • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
-  
-    <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg)-->
   
   • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state with answer not found condition search method and speak with mouth lips viseme motility event.
 
@@ -70,10 +62,6 @@ Intelligent systems and robotics laboratory
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language.
   
-  <!--![alt text](https://github.com/ladooniani/tailab/blob/master/assets/cbm-robot-device.png)-->
-  
-  
-
 # Research and technology development
 
  "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and engineering, based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani, such as training and conversation model, semantic analysis and controller motility operator methods. 
@@ -83,7 +71,6 @@ Intelligent systems and robotics laboratory
  Conversational interaction prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure display with reflective experience, capable differentiate content based meaning and use logic to find relationship between contextual values.
  
  Synthetic entity able to learn and interact with grow of personal unique memory content as key in process of creation building blocks of contextual association system and deepening of abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able endlessly learn, understand meaning of information and use it to build synthetic personality, become perceptive carrier to reflect and inference received informational knowledge in natural way of dynamic conversation.
-
 
 # Support project
   
