@@ -13,7 +13,7 @@ Intelligent systems and robotics laboratory
 • Semantic processing algorithms\
 • Controller operating methods
 
-
+ ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
 
 
 
