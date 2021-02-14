@@ -79,9 +79,10 @@ Intelligent systems and robotics laboratory
 
  Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design artificial conversational entity cognitive/associative learning/dialogue system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, and prototype custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
- Conversational interaction prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure display.
+ Conversational interaction prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure display with reflective experience, capable differentiate content based meaning and use logic to find relationship between contextual values.
  
  Synthetic entity able to learn and interact, providing grow and using of personal unique memory content as key to the abstract path in process of creation building blocks of contextual association system and deepening of abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able endlessly learn, understand meaning of  information and use it to build synthetic personality, become perceptive carrier to reflect and inference received informational knowledge in natural way of dynamic conversation with simplicity and softness in interaction feedback.
+
 
 
 # Support project
