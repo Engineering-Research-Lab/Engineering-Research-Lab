@@ -10,7 +10,7 @@ Intelligent systems and robotics laboratory**
 
 
 # Terbinari - Operating program 
-# CBM - Control Bot Mechanism (Robot device)
+# CBM (Control Bot Mechanism) - Robot device
 ## Tet  - Artificial conversational entity
 • Training and conversation model\
 • Semantic processing algorithms\
