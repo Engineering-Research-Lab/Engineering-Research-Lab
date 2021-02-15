@@ -37,6 +37,12 @@ Intelligent systems and robotics laboratory**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
+# Processing
+
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
+
+ Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
+   
 # Functionality
 
   Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
@@ -50,13 +56,7 @@ Intelligent systems and robotics laboratory**
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
-  
-# Processing
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
-
- Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
-   
 # Research and technology development
 
  "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and engineering, based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani, such as training and conversation model, semantic analysis and controller motility operator methods. 
