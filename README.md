@@ -42,16 +42,16 @@ Intelligent systems and robotics laboratory**
  Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
 
  Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
-   
+
 # Functionality
 
-  Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
+  NLP/S, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
   • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
   
-  • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state with answer not found condition search method and speak with mouth lips viseme motility event.
+  • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state and speak with mouth lips viseme motility event.
 
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
