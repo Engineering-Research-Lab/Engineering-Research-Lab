@@ -8,18 +8,12 @@ Intelligent systems and robotics laboratory**
 
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
-
 # Terbinari - Operating program 
 # CBM - Control Bot Mechanism robot device
 ## Tet  - Artificial conversational entity
 • Training and conversation model\
 • Semantic processing algorithms\
 • Controller operating methods
-
- 
-
- 
-
 
 # Software and device
 
@@ -35,7 +29,7 @@ Intelligent systems and robotics laboratory**
  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
     
-## Overview
+### Overview
 
  Operating program interface interacts with training and conversation response output endowed with individual memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical recall provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
