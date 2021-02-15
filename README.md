@@ -17,7 +17,7 @@ Intelligent systems and robotics laboratory**
 
 # Software and device
 
-  Terbinari operating program represents interactive training and conversation model, natural language processing semantic analysis/matching logic algorithms and controller operating methods.
+  Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching algorithms and controller operating methods.
 
   Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. Cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
@@ -31,7 +31,7 @@ Intelligent systems and robotics laboratory**
     
 ### Overview
 
- Operating program interface interacts with training and conversation response output endowed with individual memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical recall provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
+ Operating program interface interacts with training and conversation memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
 ### Prototype application compatibility and usage
 
@@ -39,13 +39,11 @@ Intelligent systems and robotics laboratory**
   
 # Processing
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use memory for internal construction of semantic association and dialogue generation.
-
- Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input creating contextual scenario able to process, reflect, evaluate and use memory for dialogue generation, follow context nodes and find content based meaning.
 
 # Functionality
 
-  NLP/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
+  NLP/U/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
