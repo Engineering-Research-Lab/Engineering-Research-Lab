@@ -39,7 +39,7 @@ Intelligent systems and robotics laboratory**
 
  Operating program interface interacts with training and conversation response output endowed with individual memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical recall provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
-## Prototype application compatibility and usage
+### Prototype application compatibility and usage
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
