@@ -21,7 +21,7 @@ Intelligent systems and robotics laboratory**
 
   Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. Cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
-  Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
+  Bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
   
 # Conversations
 
@@ -39,7 +39,7 @@ Intelligent systems and robotics laboratory**
   
 # Processing
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use memory for internal construction of semantic association and dialogue generation.
 
  Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
 
@@ -61,11 +61,9 @@ Intelligent systems and robotics laboratory**
 
  "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics. Development based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani.
 
- Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design associative learning/dialogue system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
+ Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design  building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use. Such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
- Conversational interaction prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure display with reflective experience, capable differentiate content based meaning and use logic to find relationship between contextual values.
- 
- Synthetic entity able to learn and interact with grow of personal unique memory content as key in process of creation building blocks of contextual association system and deepening of abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able endlessly learn, understand meaning of information and use it to build synthetic personality, become perceptive carrier to reflect and inference received informational knowledge in natural way of dynamic conversation.
+ Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model scenario performance.
 
 # Support project
   
@@ -85,4 +83,3 @@ At this stage we are preparing for presentation event with research overview and
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
   
-
