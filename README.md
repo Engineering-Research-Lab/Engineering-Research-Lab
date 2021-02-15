@@ -23,24 +23,6 @@ Intelligent systems and robotics laboratory**
 
   Bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
   
-  ## Processing
-
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input creating contextual scenario able to process, reflect, evaluate and use memory for dialogue generation, follow context nodes and find content based meaning.
-
-## Functionality
-
-  NLP/U/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
-  
-  • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
-
-  • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
-  
-  • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state and speak with mouth lips viseme motility event.
-
-  • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
-
-  Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
-  
 # Conversations
 
  Following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
@@ -55,7 +37,23 @@ Intelligent systems and robotics laboratory**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
+# Processing
 
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input creating contextual scenario able to process, reflect, evaluate and use memory for dialogue generation, follow context nodes and find content based meaning.
+
+# Functionality
+
+  NLP/U/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
+  
+  • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
+
+  • Operate as topic teacher e.g. with "astronomy" appeal, question contexts and answer output.
+  
+  • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state and speak with mouth lips viseme motility event.
+
+  • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
+
+  Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
 
 # Research
 
