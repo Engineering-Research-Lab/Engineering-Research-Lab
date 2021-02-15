@@ -39,7 +39,7 @@ Intelligent systems and robotics laboratory**
   
 # Processing
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input creating contextual scenario able to process, reflect, evaluate and use memory for dialogue generation, follow context nodes and find content based meaning.
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input, follow context nodes and find content based meaning in dialogue generation. 
 
 # Functionality
 
@@ -61,7 +61,7 @@ Intelligent systems and robotics laboratory**
 
  Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design  building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use. Such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
- Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model scenario performance.
+ Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model contextual scenario performance.
 
 # Support project
   
@@ -78,7 +78,4 @@ Your donation will help expand independent research workflow, improve laboratory
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-  
-
-
   
