@@ -45,7 +45,7 @@ Intelligent systems and robotics laboratory**
 
 # Functionality
 
-  NLP/S, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
+  NLP/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
