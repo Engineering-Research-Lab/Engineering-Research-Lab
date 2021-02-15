@@ -37,15 +37,7 @@ Intelligent systems and robotics laboratory**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
-# Processing
-
- Training and conversation model are close to the natural way of receiving information, when we ask question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
-
- Training and conversation starts from empty memory content, during dialog, void starts fill up and grow by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified memory content to reflect and manipulate with direct return, search or generating answer through the processing and understanding of existing content, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and request for new key of value.
-
- Return of direct answers to given questions prescribing by user/interlocutor through the processing core directly reflects or operates to understand content of conversation, defining answer, and building personality structure to output cognitive recall on computational semantics level.
- 
- # Functionality
+# Functionality
 
   Neutral language processing/generation semantic analysis/matching algorithms brain core and operation control methods I/O system with multi-function chat-bot terminal desktop software application interface and head/eyes/mouth control bot mechanism robot device with position/coordinate step receiver controller.
   
@@ -59,6 +51,14 @@ Intelligent systems and robotics laboratory**
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
   
+# Processing
+
+ Training and conversation model are close to the natural way of receiving information, when we ask question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
+
+ Training and conversation starts from empty memory content, during dialog, void starts fill up and grow by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified memory content to reflect and manipulate with direct return, search or generating answer through the processing and understanding of existing content, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and request for new key of value.
+
+ Return of direct answers to given questions prescribing by user/interlocutor through the processing core directly reflects or operates to understand content of conversation, defining answer, and building personality structure to output cognitive recall on computational semantics level.
+   
 # Research and technology development
 
  "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and engineering, based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani, such as training and conversation model, semantic analysis and controller motility operator methods. 
