@@ -1,4 +1,4 @@
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
+  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
 
@@ -18,7 +18,7 @@ Intelligent systems and robotics laboratory**
 # Software and device
 
   Terbinari operating program represents interactive training and conversation model, natural language processing semantic analysis/matching logic algorithms and controller operating methods.
-  
+
   Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. Cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
   Bot operates individual unique memory content updated by Interlocutor input in frames of the system legal code. Answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teach assistant and agent of compensatory intercourse for various interactive communication tasks.
@@ -57,11 +57,13 @@ Intelligent systems and robotics laboratory**
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
 
-# Research
+# Research and technology development
 
- "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and engineering, based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani, such as training and conversation model, semantic analysis and controller motility operator methods. 
+ "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics. Development based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani.
 
- Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design artificial conversational entity cognitive/associative learning/dialogue system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, and prototype custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
+ Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods to design associative learning/dialogue system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
+
+Prototype of custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
  Conversational interaction prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating contextual memory content and dialog model scenario performance within building semantically personified cognition and output structure display with reflective experience, capable differentiate content based meaning and use logic to find relationship between contextual values.
  
@@ -85,4 +87,3 @@ At this stage we are preparing for presentation event with research overview and
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
   
-
