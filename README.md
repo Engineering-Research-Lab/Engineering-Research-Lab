@@ -53,11 +53,9 @@ Intelligent systems and robotics laboratory**
   
 # Processing
 
- Training and conversation model are close to the natural way of receiving information, when we ask question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. This way training turn into the way of writing a book by creating contextual scenario of personality able to process, evaluate and use this data for internal construction of semantic association and dialogue generation.
 
- Training and conversation starts from empty memory content, during dialog, void starts fill up and grow by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified memory content to reflect and manipulate with direct return, search or generating answer through the processing and understanding of existing content, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and request for new key of value.
-
- Return of direct answers to given questions prescribing by user/interlocutor through the processing core directly reflects or operates to understand content of conversation, defining answer, and building personality structure to output cognitive recall on computational semantics level.
+ Training starts with empty memory, updateable during the dialogue by individual user/teacher interlocutor input, giving and requesting for questions/answers, thereby building artificial entity personified structure able to reflect and manipulate with direct return, generate or search answer, create and dynamically follow context nodes, find meaning of the subject by relations from entire content without direct link between word and its meaning at the time of determination, output hypothetical conclusion and add new keys of value.
    
 # Research and technology development
 
