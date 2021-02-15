@@ -37,9 +37,9 @@ Intelligent systems and robotics laboratory**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
-# Processing
+# Processing  
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer. Starts with voided memory content and updates with user/teacher interlocutor input, follow context nodes and find content based meaning in dialogue generation. 
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generates dialogue, following context and content based meaning. 
 
 # Functionality
 
@@ -78,4 +78,7 @@ Your donation will help expand independent research workflow, improve laboratory
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
+  
+
+
   
