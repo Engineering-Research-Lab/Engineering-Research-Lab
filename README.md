@@ -33,15 +33,11 @@ Intelligent systems and robotics laboratory**
 
  Operating program interface interacts with training and conversation memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
-### Prototype application compatibility and usage
-
-  Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
-  
-# Processing  
+### Processing  
 
  Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generates dialogue, following context and content based meaning. 
 
-# Functionality
+### Functionality
 
   NLP/U/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
@@ -55,6 +51,10 @@ Intelligent systems and robotics laboratory**
 
   Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
 
+### Prototype application compatibility and usage
+
+  Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
+  
 # Research
 
  "Toy Artificial Intelligence" science, technology and engineering laboratory operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics. Development based on computing techniques in computational linguistics, automatic natural language processing/generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani.
@@ -78,7 +78,3 @@ Your donation will help expand independent research workflow, improve laboratory
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-  
-
-
-  
