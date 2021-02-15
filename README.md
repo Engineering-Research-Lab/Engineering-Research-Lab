@@ -65,7 +65,7 @@ Intelligent systems and robotics laboratory**
 
 # Support project
   
-  Laboratory founded as non profit scientific and engineering organization.
+Laboratory founded as non profit scientific and engineering organization.
 
 Practical experience and development process in research is aimed to create and investigate synthetic entity architecture and behavior.
 
@@ -77,7 +77,8 @@ Your donation will help expand independent research workflow, improve laboratory
 
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
-At this stage we are preparing for presentation event with research overview and Terbinari CBM robot demonstration, planned in May of 2021, exact date/location will be announced later.
-
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
+  
+
+
   
