@@ -28,8 +28,12 @@ Intelligent systems and robotics laboratory**
     
 ### Overview
 
- Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
+ Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. 
+ 
+  <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="500">
 
+Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
+ 
 ### Processing  
 
  Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generating dialogue, following context and content based meaning. 
@@ -46,8 +50,6 @@ Intelligent systems and robotics laboratory**
   
   • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state and speak with mouth lips viseme motility event.
   
- <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="500">
-
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
