@@ -37,6 +37,8 @@ Intelligent systems and robotics laboratory**
 
  Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generating dialogue, following context and content based meaning. 
 
+ Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model contextual scenario performance.
+
 ### Functionality
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
@@ -65,6 +67,7 @@ Research and development includes a number of areas, such as computational logic
 
 The vision in research, inspired and motivated by concept to invent and build experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies, as well as implying prototyping and manufacturing products with commercial potential.
 
+
 # Support project
   
 Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
@@ -72,7 +75,4 @@ Your donation will help expand independent research workflow, improve laboratory
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-
-
   
-
