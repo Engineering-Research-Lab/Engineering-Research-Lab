@@ -17,7 +17,7 @@ Intelligent systems and robotics laboratory**
 
 # Software and device
 
-  Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching algorithms and controller operating methods.
+  Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching logic algorithms and controller operating methods.
 
   Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. Cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
@@ -31,15 +31,15 @@ Intelligent systems and robotics laboratory**
     
 ### Overview
 
- Operating program interface interacts with training and conversation memory slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
+ Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice or voice-to-voice modes and robot control methods. Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
 ### Processing  
 
- Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generates dialogue, following context and content based meaning. 
+ Training and conversation model are close to the natural way of receiving information, asking for question and answering, looking or requesting for answer, filling memory  with user/teacher interlocutor input, generating dialogue, following context and content based meaning. 
 
 ### Functionality
 
-  NLP/U/G, semantic analysis and operation control algorithms with multi-function chat-bot I/O terminal desktop software application interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
+  Text analysis and operation control algorithms with multi-function chat-bot terminal interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
@@ -49,7 +49,7 @@ Intelligent systems and robotics laboratory**
 
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
-  Desktop application software installation provides access to system terminal chat-bot interface and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
+  Desktop application software installation provides access to chat-bot and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
 
 ### Prototype application compatibility and usage
 
@@ -77,5 +77,4 @@ Your donation will help expand independent research workflow, improve laboratory
 
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
-To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-  
+To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber)
