@@ -46,8 +46,13 @@ Intelligent systems and robotics laboratory**
   
   • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state and speak with mouth lips viseme motility event.
   
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg | width=100)
+
   
+  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg){:class="img-responsive"}
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg){:height="50%" width="50%"}
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg){:height="700px" width="400px"}
+
+
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
