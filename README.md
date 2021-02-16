@@ -59,14 +59,11 @@ Intelligent systems and robotics laboratory**
   
 # Research
 
-"Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization, operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics.
-
-Research and development includes a number of areas, such as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design, aimed to create and investigate synthetic entity architecture and behavior, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani.
-
- Implementation startup was started in 2016 with multidisciplinary engineering approach, inspired and based on idea create information processing algorithms and operation control methods, design  building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
+"Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization, operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics, includes a number of areas, such as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design, aimed to create and investigate synthetic entity architecture and behavior, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani. 
 
 The vision in research, inspired and motivated by concept to invent and build experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies, as well as implying prototyping and manufacturing products with commercial potential.
 
+Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
 # Support project
   
@@ -75,4 +72,3 @@ Your donation will help expand independent research workflow, improve laboratory
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
 To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-  
