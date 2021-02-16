@@ -57,6 +57,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 **Prototype application compatibility and usage**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
+  
+   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai-lab.png)
    
 ## Research
 
