@@ -40,8 +40,6 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model contextual scenario performance.
 
-   <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
-
 ### Functionality
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
@@ -69,6 +67,10 @@ The vision in research, inspired and motivated by concept to invent and build ex
 Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
 ## Support project
+
+
+   <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
+
   
 Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
 
