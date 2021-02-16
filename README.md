@@ -48,8 +48,8 @@ Intelligent systems and robotics laboratory**
   
 
   
-  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg?v=4&s=200)
- 
+   
+ <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="100">
 
 
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
