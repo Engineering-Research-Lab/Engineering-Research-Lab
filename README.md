@@ -1,13 +1,11 @@
  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
- 
-
-   <img src="https://github.com/ladooniani/tailab/blob/master/assets/tai-lab.png" width="400"> 
+ <font color="blue">  
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
-Intelligent systems and robotics laboratory** 
+Intelligent systems and robotics laboratory**  </font>
 
 ## Terbinari - Operating program 
 ## CBM - Control Bot Mechanism robot device
