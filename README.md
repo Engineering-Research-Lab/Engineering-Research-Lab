@@ -6,11 +6,11 @@
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory** 
 
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
-
-# Terbinari - Operating program 
-# CBM - Control Bot Mechanism robot device
+## Terbinari - Operating program 
+## CBM - Control Bot Mechanism robot device
 ## Tet  - Artificial conversational entity
+
+ ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
 # Software and device
 
@@ -60,7 +60,7 @@ Intelligent systems and robotics laboratory**
 
 The vision in research, inspired and motivated by concept to invent and build experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies, as well as implying prototyping and manufacturing products with commercial potential.
 
-Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
+Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
 ## Support project
   
