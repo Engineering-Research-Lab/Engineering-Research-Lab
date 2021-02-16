@@ -65,7 +65,7 @@ The vision in research, inspired and motivated by concept to invent and build ex
 
 Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture, prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
 
-# Support project
+## Support project
   
 Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
 
