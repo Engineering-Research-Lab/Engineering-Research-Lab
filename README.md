@@ -40,6 +40,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with requirement of creating memory content with dialog model contextual scenario performance.
 
+   <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
+
 ### Functionality
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
@@ -58,8 +60,6 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
    
-   <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
-
 ## Research
 
 "Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization, operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics, includes a number of areas, such as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design, aimed to create and investigate synthetic entity architecture and behavior, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani. 
