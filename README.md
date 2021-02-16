@@ -1,6 +1,9 @@
  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
+ 
+
+   <img src="https://github.com/ladooniani/tailab/blob/master/assets/tai-lab.png" width="200"> 
 
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
@@ -58,8 +61,6 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
-   ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai-lab.png)
-   
 ## Research
 
 "Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization, operates on an independent creative platform of experimental development research in the field of intelligent systems and mechanics, includes a number of areas, such as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design, aimed to create and investigate synthetic entity architecture and behavior, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts by inventor Lado Oniani. 
