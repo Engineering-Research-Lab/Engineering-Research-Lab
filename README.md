@@ -39,7 +39,7 @@ Intelligent systems and robotics laboratory**
 
 ### Functionality
 
-  Text analysis and operation control algorithms with multi-function chat-bot terminal interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
+  Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
   • Learn from communication and talk to interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
@@ -49,7 +49,7 @@ Intelligent systems and robotics laboratory**
 
   • See – detect, recognize introduced person, track with eye contact and head orientation following interlocutor position, blink eyelids.
 
-  Desktop application software installation provides access to chat-bot and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
+  Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server based memory storage with using of Microsoft OS speech references and available system display language. 
 
 ### Prototype application compatibility and usage
 
@@ -77,4 +77,4 @@ Your donation will help expand independent research workflow, improve laboratory
 
 To support project follow [donation link](https://www.paypal.com/donate?token=J7e0P3tspk-75N--iN7kLC-4fKbcJxQI392d7TfQLOh9RaHUcgcJwIp03F5JkKUgyonyGqmXJOc1nnkj) 
 
-To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber)
+To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
