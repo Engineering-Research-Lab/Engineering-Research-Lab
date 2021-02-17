@@ -60,14 +60,13 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
 ## Research
 
+"Toy Artificial Intelligence" laboratory is founded as a non-profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering, and industrial/artistic design.
 
-"Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design.
+Implementation startup was started in 2016 with a multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, the machine and robot learning, computer vision, and mechatronics concepts of inventor Lado Oniani.
 
-Implementation startup was started in 2016 with multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts of inventor Lado Oniani.
+The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
 
-Development aiming to create and investigate synthetic entity architecture and behavior, information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
-
-Invent custom  experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic  technologies prototype and solution, adaptable for specialized use with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment.
+Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
