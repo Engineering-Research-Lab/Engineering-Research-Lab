@@ -60,11 +60,16 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
 ## Research
 
-"Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization, operates on an independent creative platform of experimental development research in the fields of intelligent systems and mechanics. Involves such areas as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design, aiming to create and investigate synthetic entity architecture and behavior, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts of inventor Lado Oniani. 
+"Toy Artificial Intelligence" laboratory founded as non profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics and involves such areas as computational logic, cognitive science, mechanical design/engineering and industrial/artistic design. 
 
-Implementation startup was started in 2016 with multidisciplinary engineering approach, based on idea create information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture.
+Implementation startup was started in 2016 with multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, machine/robot learning, computer vision and mechatronics concepts of inventor Lado Oniani. 
 
-The vision in research, inspired  by motivation to invent and build experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies. Prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment. 
+Development aiming to create and investigate synthetic entity architecture and behavior, information processing algorithms and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture.
+
+Invent experimental and assistive educational, therapeutic, social and humanitarian interactive and robotic technologies. 
+
+Prototyping custom assistive technology solution, adaptable for specialized use, such as education, cognitive therapy or entertainment with modeling and simulation conversational setup via human-machine interface, behavior observation, study, development, optimization and accumulation potentially derivative experiment.
+
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
