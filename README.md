@@ -72,8 +72,10 @@ Implementation startup was started in 2016 with multidisciplinary engineering ap
 
 Your donation will help expand independent research workflow, improve laboratory environment and speed up conceptual strategy process, which leads to more involved research in frames of related technology, forming educational platform for creative/intellectual collaboration and search for other references.
 
+To support project follow dnation link: 
+
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" />
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br>
 </a>
 
-/To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
+To get updates from research workflow, please follow us in social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
