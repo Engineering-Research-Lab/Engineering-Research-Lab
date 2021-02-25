@@ -46,7 +46,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
   • Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
-  • Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
+  - • Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
   
   • Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state, and speak with mouth lips viseme motility event.
   
