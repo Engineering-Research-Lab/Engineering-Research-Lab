@@ -82,4 +82,8 @@ To support the project follow the donation link:
 
 To get updates from research workflow, please follow us on social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
 
+   <a href="https://www.instagram.com/terbinari_cbm/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://twitter.com/ArtificialToy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Python" height="20" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q/featured"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Email" height="20" style="vertical-align:top; margin:4px"></a>
+
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.terbinari) -->
