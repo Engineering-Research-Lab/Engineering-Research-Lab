@@ -6,9 +6,9 @@
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory**  
 
-## Terbinari - Operating program 
-## CBM - Control Bot Mechanism robot device
-## Tet  - Artificial conversational entity
+## ⬤ Terbinari - Operating program 
+## ⬤ CBM - Control Bot Mechanism robot device
+## ⬤ Tet  - Artificial conversational entity
 
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
