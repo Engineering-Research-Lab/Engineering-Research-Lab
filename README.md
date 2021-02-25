@@ -81,3 +81,5 @@ To support the project follow the donation link:
 </a>
 
 To get updates from research workflow, please follow us on social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
+
+![](https://visitor-badge.laobi.icu/badge?page_id=ladooniani.terbinari)
