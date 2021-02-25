@@ -44,13 +44,13 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
   
-  -• Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
+  - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
-  -• Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
+  - Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
   
-  -• Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state, and speak with mouth lips viseme motility event.
+  - Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state, and speak with mouth lips viseme motility event.
   
-  -• See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
+  - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
 
