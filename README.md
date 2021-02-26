@@ -53,7 +53,9 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
-
+  
+   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc)
+  
 **Prototype application compatibility and usage**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
