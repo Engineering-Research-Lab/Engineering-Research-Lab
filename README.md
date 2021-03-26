@@ -89,3 +89,7 @@ To get updates from research workflow, please follow us on social networks and s
    <a href="https://www.instagram.com/terbinari_cbm/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="20" style="vertical-align:top; margin:4px"></a>
   <a href="https://twitter.com/ArtificialToy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="20" style="vertical-align:top; margin:4px"></a>
    <a href="https://www.linkedin.com/company/tailab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" style="vertical-align:top; margin:4px"></a>
+   
+   ## Lab
+
+### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
