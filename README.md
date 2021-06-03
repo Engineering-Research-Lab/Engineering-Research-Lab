@@ -68,6 +68,8 @@ Implementation startup was started in 2016 with a multidisciplinary engineering 
 
 The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
 
+ [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80)
+
 Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
