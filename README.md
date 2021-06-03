@@ -10,8 +10,6 @@ Intelligent systems and robotics laboratory**
 ## CBM - Control Bot Mechanism robot device
 ## Tet - Artificial conversational entity
 
-### Learning and talking robot - Terbinari CBM (conv 1)
-
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
 ## Software and device
@@ -26,8 +24,8 @@ The bot operates individual unique memory content updated by interlocutor input 
 
  The following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
  
- ### Learning and talking robot - Terbinari CBM (conv 1)
- 
+**Learning and talking robot - Terbinari CBM (conv 1)**
+
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
     
 ### Overview
