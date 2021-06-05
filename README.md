@@ -10,7 +10,7 @@ Intelligent systems and robotics laboratory**
 ## CBM - Control Bot Mechanism robot device
 ## Tet - Artificial conversational entity
 
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-0.jpg)
+ ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
 ## Software and device
 
