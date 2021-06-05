@@ -26,6 +26,8 @@ The bot operates individual unique memory content updated by interlocutor input 
  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
    
+   <span style="color: green"> Some green text </span>
+
    **Learning and talking robot - Terbinari CBM (conv 1)**
     
 ### Overview
