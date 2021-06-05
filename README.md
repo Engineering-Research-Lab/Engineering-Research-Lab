@@ -24,9 +24,9 @@ The bot operates individual unique memory content updated by interlocutor input 
 
  The following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
  
-   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)
-   
-   ***Learning and talking robot - Terbinari CBM (conv 1)***
+ ***Learning and talking robot - Terbinari CBM (conv 1)***
+ 
+   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)  
     
 ### Overview
 
@@ -40,10 +40,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning. 
  
+   ***Conversational robot - Terbinari CBM (conv 4)***
+    
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/vxVBtnA5of8)
    
-   ***Conversational robot - Terbinari CBM (conv 4)***
-
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
 
 ### Functionality
@@ -76,6 +76,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 Implementation startup was started in 2016 with a multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, the machine and robot learning, computer vision, and mechatronics concepts of inventor [Lado Oniani](https://github.com/ladooniani).
 
 The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
+
+***Trainable robot - Terbinari CBM (conv 6)***
 
  [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80)
 
