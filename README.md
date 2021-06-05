@@ -63,6 +63,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
   
+  ***Trainable robot - Terbinari CBM (conv 6)***
+  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc)
   
 **Prototype application compatibility and usage**
@@ -77,7 +79,7 @@ Implementation startup was started in 2016 with a multidisciplinary engineering 
 
 The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
 
-***Trainable robot - Terbinari CBM (conv 6)***
+***Interactive robot - Terbinari CBM (conv 3)***
 
  [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80)
 
