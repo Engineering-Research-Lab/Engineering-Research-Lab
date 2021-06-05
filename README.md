@@ -41,6 +41,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
  The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning. 
  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/vxVBtnA5of8)
+   
+   **Conversational robot - Terbinari CBM (conv 4)**
 
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
 
