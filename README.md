@@ -79,9 +79,9 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
   
-  ***Trainable robot - Terbinari CBM (conv 6)***
+  [***Trainable robot - Terbinari CBM (conv 6)***](https://youtu.be/oKQQEKq7pdc)
   
-   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc)
+   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc&rel=0)
   
 **Prototype application compatibility and usage**
 
