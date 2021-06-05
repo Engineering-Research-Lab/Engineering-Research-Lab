@@ -18,9 +18,7 @@ Terbinari operating program represents interactive training and conversation mod
 
 Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. The cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
-  <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-1.jpg" width="500">
-<!---![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-1.jpg)--->
-<!---![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg)--->
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="600">
 
 The bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. The answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teaching assistant and agent of compensatory intercourse for various interactive communication tasks.
  
@@ -49,9 +47,9 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 ### Functionality
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
-  
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="500">
-  
+
+  <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-2.jpg" width="500">
+ 
   - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
   - Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
