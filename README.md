@@ -10,9 +10,15 @@ Intelligent systems and robotics laboratory**
 ## CBM - Control Bot Mechanism robot device
 ## Tet - Artificial conversational entity
 
-[Software and device](#Software-and-device)
-[Conversations](#Conversations)
-[Research](#Research)
+ - [Software and device](#Software-and-device)
+ - [Conversations](#Conversations)
+ - [Overview](#Overview)
+ - [Processing ](#Processing)
+ - [Functionality](#Functionality)
+ - [Terbinari program and CBM robot device](#Terbinari-program-and-CBM-robot-device)
+ - [Mechanism](#Mechanism)
+ - [Research](#Research)
+ - [Support project](#Support-project)
 
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
@@ -35,6 +41,7 @@ The bot operates individual unique memory content updated by interlocutor input 
  [***Robot head mouth mechanism - Terbinari CBM (conv 5)***](https://youtu.be/xZZ-RWoMQD4)
  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0)  
+
 ### Overview
 
  Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice, or voice-to-voice modes and robot control methods. 
