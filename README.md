@@ -54,7 +54,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
    
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
  
-   ### Terbinari CBM robot device
+   ### Terbinari program and CBM robot device 
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="639">
 
@@ -83,7 +83,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
   
-  ### Mechanism
+  ### CBM robot device mechanism
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="639">
   
