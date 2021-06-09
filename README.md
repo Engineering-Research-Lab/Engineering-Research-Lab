@@ -57,7 +57,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning. 
  
-  <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="600">
+  <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="500">
   <!---<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-2.jpg" width="500">--->
  
    [***Android robot - Terbinari CBM (conv 2)***](https://youtu.be/f801_bk9htc)
@@ -76,7 +76,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  **Terbinari program and CBM robot device** 
  
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="500">
  
   - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
@@ -88,7 +88,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  **Mechanism** 
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="500">
 
  [***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
     
