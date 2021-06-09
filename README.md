@@ -57,6 +57,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   [***Robot chatbot - Terbinari CBM (conv 8)***](https://youtu.be/UsEniQiI9Xk)
     
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/UsEniQiI9Xk&rel=0)
+   
+   ### Terbinari CBM robot device
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="639">
 
 ### Functionality
 
@@ -73,19 +77,15 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
   - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
 
-## Terbinari CBM robot device
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="639">
-
-## Mechanism
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="639">
-
  [***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
     
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/H2O3pTNejW0&rel=0)
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
+  
+  ### Mechanism
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="639">
   
   [***Trainable robot - Terbinari CBM (conv 6)***](https://youtu.be/oKQQEKq7pdc)
   
