@@ -54,10 +54,6 @@ Mechanical response provides tracking orientation and eye contact with user/inte
    
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
  
-   ### Terbinari program and CBM robot device 
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="639">
-
   [***Robot chatbot - Terbinari CBM (conv 8)***](https://youtu.be/UsEniQiI9Xk)
     
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/UsEniQiI9Xk&rel=0)
@@ -83,10 +79,6 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
   
-  ### CBM robot device mechanism
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="639">
-  
   [***Trainable robot - Terbinari CBM (conv 6)***](https://youtu.be/oKQQEKq7pdc)
   
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc&rel=0)
@@ -94,6 +86,14 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 **Prototype application compatibility and usage**
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
+  
+### Terbinari program and CBM robot device 
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="639">
+ 
+### Mechanism
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="639">
   
 ## Research
 
