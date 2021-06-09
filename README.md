@@ -28,14 +28,13 @@ Artificial conversational entity performs input/output question-answering, learn
 
 The bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. The answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teaching assistant and agent of compensatory intercourse for various interactive communication tasks.
 
+## Conversations
+
+ The following video sessions represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
+
  [***Robot head mouth mechanism - Terbinari CBM (conv 5)***](https://youtu.be/xZZ-RWoMQD4)
  
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0)  
- 
-## Conversations
-
- The following video session represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
-    
 ### Overview
 
  Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice, or voice-to-voice modes and robot control methods. 
