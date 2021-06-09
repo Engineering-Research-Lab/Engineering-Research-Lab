@@ -11,6 +11,8 @@ Intelligent systems and robotics laboratory**
 ## Tet - Artificial conversational entity
 
 [Software and device](#Software-and-device)
+[Conversations](#Conversations)
+[Research](#Research)
 
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
 
