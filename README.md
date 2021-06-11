@@ -108,7 +108,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
 ### CBM v.0 - 2016
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-ver-0-2016.jpg" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-ver-0-2016.jpg" width="369">
 
 Implementation startup was started in 2016 with a multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, the machine and robot learning, computer vision, and mechatronics concepts of inventor [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md).
 
@@ -124,7 +124,7 @@ The development aims to create and investigate synthetic entity architecture and
 
 Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="369">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
 ## 💖 Support project
 
