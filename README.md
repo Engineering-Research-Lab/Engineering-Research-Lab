@@ -114,7 +114,7 @@ Implementation startup was started in 2016 with a multidisciplinary engineering 
 
 ### CBM v.1 - 2018
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-4.jpg" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-4.jpg" width="369">
 
 The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
 
@@ -124,7 +124,7 @@ The development aims to create and investigate synthetic entity architecture and
 
 Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="369">
 
 ## 💖 Support project
 
