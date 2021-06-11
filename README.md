@@ -106,7 +106,15 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
 "Toy Artificial Intelligence" laboratory is founded as a non-profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering, and industrial/artistic design.
 
+### CBM v.0 - 2016
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-ver-0-2016.jpg" width="600">
+
 Implementation startup was started in 2016 with a multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, the machine and robot learning, computer vision, and mechatronics concepts of inventor [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md).
+
+### CBM v.1 - 2018
+
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-4.jpg" width="600">
 
 The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
 
