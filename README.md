@@ -49,7 +49,7 @@ The bot operates individual unique memory content updated by interlocutor input 
 
 Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
 
-   [***Conversational robot - Terbinari CBM (conv 4)***](https://youtu.be/vxVBtnA5of8)
+   <sub>[***Conversational robot - Terbinari CBM (conv 4)***](https://youtu.be/vxVBtnA5of8)<sub>
     
    [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/vxVBtnA5of8&rel=0)
  
