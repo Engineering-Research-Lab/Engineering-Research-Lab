@@ -126,9 +126,9 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
-## Download PDF:
+### Download PDF:
 
-### 📃 [TAI lab. Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
+#### 📃 [TAI lab. Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
  
 ## 💖 Support project
 
