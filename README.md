@@ -126,10 +126,6 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
-### Download PDF:
-
-#### 📃 [TAI lab. Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
- 
 ## 💖 Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
@@ -149,6 +145,8 @@ To get updates from research workflow, please follow us on social networks and s
    <a href="https://www.linkedin.com/company/tailab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" style="vertical-align:top; margin:4px"></a>
    
 ## Lab
+
+#### 📃 [Download TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
 
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
 
