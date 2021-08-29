@@ -20,7 +20,7 @@ Intelligent systems and robotics laboratory**
  - [Processing ](#Processing)
  - [Functionality](#Functionality)
  - [Research](#Research)
- - [TAI lab. Terbinari CBM project PDF](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
+ - 📃 [TAI lab. Terbinari CBM project PDF](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
 
 ## Software and device
 
