@@ -21,10 +21,6 @@ Intelligent systems and robotics laboratory**
  - [Functionality](#Functionality)
  - [Research](#Research)
 
-#### 📃 Download PDF:
-
- - [TAI lab. Terbinari CBM project PDF](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
-
 ## Software and device
 
 Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching logic algorithms, and controller operating methods.
@@ -130,6 +126,10 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
+## Download PDF:
+
+### 📃 [TAI lab. Terbinari CBM project](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)
+ 
 ## 💖 Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
