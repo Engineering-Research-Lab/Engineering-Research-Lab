@@ -6,6 +6,8 @@
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory**
 
+#
+
 ## Terbinari - Operating program 
 ## CBM - Control Bot Mechanism robot device
 ## Tet - Artificial conversational entity
