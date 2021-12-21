@@ -88,7 +88,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
  **Mechanism** 
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device-mechanism.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device.png" width="600">
 
  [***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
     
