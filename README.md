@@ -128,6 +128,10 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
 
+### Download markdown pdf
+
+📃 [Download markdown pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-md.pdf)
+
 ## 💖 Support project
 
 Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
