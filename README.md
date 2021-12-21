@@ -76,7 +76,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
  
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-pro-1.png" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-system.png" width="600">
  
   - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
 
