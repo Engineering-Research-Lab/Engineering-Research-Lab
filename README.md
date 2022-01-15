@@ -1,7 +1,9 @@
  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png)
-
+ 
+   [<img alt="TAI lab" width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png" />](https://ladooniani.github.io/tailab/) 
+   
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
 Intelligent systems and robotics laboratory**
