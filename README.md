@@ -132,7 +132,7 @@ Invent custom assistive educational, therapeutic, social and humanitarian, inter
 
 ## Download markdown pdf
 
-📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-md.pdf)
+📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-cbm-pro.pdf)
 
 ## 💖 Support project
 
