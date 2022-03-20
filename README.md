@@ -88,7 +88,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
   - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
 
- **Mechanism** 
+ **Experimental robotic mechanism** 
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device.png" width="600">
 
