@@ -49,7 +49,7 @@ The bot operates individual unique memory content updated by interlocutor input 
 
 <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
-  
+
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0) --->
 
 ### Overview
@@ -76,7 +76,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 [***Android robot - Terbinari CBM (conv 2)***](https://youtu.be/f801_bk9htc)
    
 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_2-comp.mp4)
-   
+
+<video src="https://user-images.githubusercontent.com/33939191/161288910-7a4720d4-55cc-4098-abb2-19fcc1d48323.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288910-7a4720d4-55cc-4098-abb2-19fcc1d48323.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video> 
+
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/f801_bk9htc&rel=0) --->
    
  Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
@@ -108,7 +111,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 [***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
     
 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_7-comp.mp4)
-     
+
+ <video src="https://user-images.githubusercontent.com/33939191/161288099-9b138ee8-19dc-4f44-94b9-0e25fce1bd98.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288099-9b138ee8-19dc-4f44-94b9-0e25fce1bd98.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video> 
+   
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/H2O3pTNejW0&rel=0) --->
 
   Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
@@ -116,7 +122,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   [***Trainable robot - Terbinari CBM (conv 6)***](https://youtu.be/oKQQEKq7pdc)
   
 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_6-comp.mp4)
-    
+
+<video src="https://user-images.githubusercontent.com/33939191/161288376-743d5b57-00a9-4fc4-92ab-39f2c61bfba5.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288376-743d5b57-00a9-4fc4-92ab-39f2c61bfba5.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video> 
+  
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc&rel=0) --->
   
 **Prototype application compatibility and usage**
@@ -142,6 +151,9 @@ The development aims to create and investigate synthetic entity architecture and
 [***Interactive robot - Terbinari CBM (conv 3)***](https://youtu.be/tSrj2ZdIo80)
 
 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_3-comp.mp4)
+
+<video src="https://user-images.githubusercontent.com/33939191/161288753-713ea8ef-73e1-4f3a-991e-b6a9e0a24077.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288753-713ea8ef-73e1-4f3a-991e-b6a9e0a24077.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video> 
   
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80&rel=0) --->
 
