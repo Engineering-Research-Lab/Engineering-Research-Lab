@@ -29,15 +29,12 @@ Intelligent systems and robotics laboratory**
 
 Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching logic algorithms, and controller operating methods.
 
-<!--- [***Learning and talking robot - Terbinari CBM (conv 1)***](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU) --->
-[***Learning and talking robot - Terbinari CBM (conv 1)***](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)
+ [***Learning and talking robot - Terbinari CBM (conv 1)***](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU)
  
- <!--- [![Learning and talking robot - Terbinari CBM (conv 1](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)   --->
- 
- 
- 
-   [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0)  
-
+<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0) ---> 
+   
+[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)  
+      
 Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. The cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
 The bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. The answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teaching assistant and agent of compensatory intercourse for various interactive communication tasks.
