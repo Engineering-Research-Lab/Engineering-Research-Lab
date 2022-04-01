@@ -34,7 +34,7 @@ Terbinari operating program represents interactive training and conversation mod
  [***Learning and talking robot - Terbinari CBM (conv 1)***](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)
  
  
- [![Learning and talking robot - Terbinari CBM (conv 1](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)
+ <!--- [![Learning and talking robot - Terbinari CBM (conv 1](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4) --->
  
  
  
