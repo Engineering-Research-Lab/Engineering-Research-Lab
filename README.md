@@ -55,6 +55,12 @@ Terbinari operating program represents interactive training and conversation mod
 
 
 
+
+<video src="https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+
+
       
 Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. The cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
 
