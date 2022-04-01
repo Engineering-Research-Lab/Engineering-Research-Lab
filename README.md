@@ -29,7 +29,7 @@ Intelligent systems and robotics laboratory**
 
 Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching logic algorithms, and controller operating methods.
 
- [***Learning and talking robot - Terbinari CBM (conv 1)***](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU)
+<!--- [***Learning and talking robot - Terbinari CBM (conv 1)***](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU) --->
  
  [***Learning and talking robot - Terbinari CBM (conv 1)***](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)
  
