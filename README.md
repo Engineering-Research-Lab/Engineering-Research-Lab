@@ -1,3 +1,32 @@
+ 
+ 
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2 border-bottom">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+    <path fill-rule="evenodd" d="..."></path>
+</svg>
+    <span aria-label="Terbinari Tet CBM conversation" class="m-1">Terbinari Tet CBM conversation</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" data-canonical-src="https://github.com/ladooniani/tailab/blob/master/assets/video.jpg" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+
+  </video>
+</details>
+
+
+ 
+<video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" controls="controls" style="max-width: 730px;"></video>  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
  <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) --->
