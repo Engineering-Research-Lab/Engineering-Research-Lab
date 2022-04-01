@@ -138,7 +138,7 @@ The development aims to create and investigate synthetic entity architecture and
 
 [***Interactive robot - Terbinari CBM (conv 3)***](https://youtu.be/tSrj2ZdIo80)
 
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_7-comp.mp4)
+[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_3-comp.mp4)
   
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80&rel=0) --->
 
