@@ -1,28 +1,8 @@
+# [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
  
+<!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) --->
  
-
-
-  <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-  </video>
-  
-  <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" data-canonical-src="https://github.com/ladooniani/tailab/blob/master/assets/video.jpg" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-  </video>
-  
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- # [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
- 
- <!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) --->
- 
-   [<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png" />](https://ladooniani.github.io/tailab/) 
+[<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png" />](https://ladooniani.github.io/tailab/) 
    
 **Toy Artificial Intelligence\
 Research, innovation and technology development\
@@ -34,7 +14,7 @@ Intelligent systems and robotics laboratory**
 ## CBM - Control Bot Mechanism robot device
 ## Tet - Artificial conversational entity
 
- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
  
 ### ✔️ Content
 
@@ -66,6 +46,9 @@ The bot operates individual unique memory content updated by interlocutor input 
 [***Robot head mouth mechanism - Terbinari CBM (conv 5)***](https://youtu.be/xZZ-RWoMQD4)
  
 [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_5-comp.mp4)
+
+<video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
   
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0) --->
 
