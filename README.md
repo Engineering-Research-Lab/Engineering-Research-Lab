@@ -42,7 +42,7 @@ Terbinari operating program represents interactive training and conversation mod
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description dotnet-evergreen.mp4" class="m-1">dotnet-evergreen.mp4</span>
+    <span aria-label="Terbinari Tet CBM conversation" class="m-1">Terbinari Tet CBM conversation</span>
     <span class="dropdown-caret"></span>
   </summary>
 
@@ -52,9 +52,9 @@ Terbinari operating program represents interactive training and conversation mod
 </details>
 
 
-<!---
+ 
 <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" controls="controls" style="max-width: 730px;"></video>  
---->
+ 
 
 
 
