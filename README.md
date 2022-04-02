@@ -50,7 +50,7 @@ The bot operates individual unique memory content updated by interlocutor input 
 <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" >
 </video> 
 
-https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4
+https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4
 
 <!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0) --->
 
