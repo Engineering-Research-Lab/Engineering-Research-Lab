@@ -131,10 +131,10 @@ Mechanical response provides tracking orientation and eye contact with user/inte
 
   Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
   
+## Research
+  
 ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/semiconductor-dump-lado-oniani-tai-lab.jpg)
     
-## Research
-
 "Toy Artificial Intelligence" laboratory is founded as a non-profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering, and industrial/artistic design.
 
 ***CBM v.0 - 2016***
