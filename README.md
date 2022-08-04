@@ -133,9 +133,7 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   
 ## Research
   
-  [<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/semiconductor-dump-lado-oniani-tai-lab.jpg" />] 
-  
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/semiconductor-dump-lado-oniani-tai-lab.jpg)
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/semiconductor-dump-lado-oniani-tai-lab.jpg" width="600">
     
 "Toy Artificial Intelligence" laboratory is founded as a non-profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering, and industrial/artistic design.
 
