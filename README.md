@@ -67,9 +67,9 @@ Mechanical response provides tracking orientation and eye contact with user/inte
  
 ### Processing  
 
- The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning (check reference: [Inference root/derivative noun algorithm](https://github.com/ladooniani/inference-root-derivative-noun)). 
+ The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning (check reference: [Inference root/derivative noun algorithm](https://github.com/ladooniani/inference-root-derivative-noun/blob/main/README.md)).
  
- Read about [Terbinari CBM Tet Operating program.](https://github.com/ladooniani/terbinari-cbm)
+Read about [Terbinari CBM Tet Operating program.]( https://github.com/ladooniani/terbinari-cbm/blob/main/README.md)
  
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="600">
 <!---<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-2.jpg" width="500">--->
@@ -106,6 +106,8 @@ Mechanical response provides tracking orientation and eye contact with user/inte
   - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
 
  **Experimental robotic mechanism** 
+ 
+Read about [Terbinari CBM (Control Bot Mechanism) robot device modular mechanisms](https://github.com/ladooniani/terbinari-cbm-parts/blob/main/README.md)
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device.png" width="600">
 
