@@ -1,4 +1,4 @@
-# Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: A Summary of the Terbinari Operating System
+## Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: A Summary of the Terbinari Operating System
 
 ### Introduction
 
