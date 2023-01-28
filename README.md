@@ -1,203 +1,21 @@
-# [Toy Artificial Intelligence lab.](https://ladooniani.github.io/tailab/) 
- 
-<!--- ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/toy_artificial_intelligence_lab_logo.png) --->
- 
-[<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai-logo-mx.png" />](https://ladooniani.github.io/tailab/) 
-   
-**Toy Artificial Intelligence\
-Research, innovation and technology development\
-Intelligent systems and robotics laboratory**
+# Exploring the Capabilities of a Humanoid Robot with a Natural Language Processing Interface: An Overview of the Terbinari Operating Program
 
-#
+# Introduction
 
-## Terbinari - Operating program 
-## CBM - Control Bot Mechanism robot device
-## Tet - Artificial conversational entity
+The Terbinari software and device is an artificial conversational entity that performs natural language processing, understanding, and generation. It is composed of a chat-bot interface and a humanoid robot control mechanism, which includes a cervical motility device for speech motion and facial detection/recognition.
 
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg)
- 
-### ✔️ Content
+# Functionality
 
- - [Software and device](#Software-and-device)
- - [Conversations](#Conversations)
- - [Overview](#Overview)
- - [Processing ](#Processing)
- - [Functionality](#Functionality)
- - [Research](#Research)
+- The software is able to learn, interact, and deepen its understanding through communication with its user/interlocutor.
+- It can operate as a topic teacher, such as in the field of astronomy, and answer questions based on its stored memory.
+- The software supports conversation in text-to-text, text-to-voice, and speech-to-voice modes and can recognize voice input.
+- The robot control mechanism includes eye and head tracking, allowing for eye contact with the user, and lip synchronization with speech.
 
-## Software and device
+# System Requirements
 
-Terbinari operating program represents interactive training and conversation model, natural language processing, understanding and generation syntactic and semantic analysis/matching logic algorithms, and controller operating methods.
+The Terbinari software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
+The robot control device is powered by a 6V power supply and connects to the computer via USB serial port.
 
-[***Learning and talking robot - Terbinari CBM (conv 1)***](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU)
- 
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_1-comp.mp4)  
+# Conclusion
 
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://www.youtube.com/embed/videoseries?list=PLz-uAJOvLjs0D5dGJIcGOwpURkVAGzvHU&rel=0) ---> 
-
-Artificial conversational entity performs input/output question-answering, learning, spoken dialog system with multi-function chat-bot interface and anthropomorphic humanoid robot Control Bot Mechanism animatronics operator. The cervical motility device implements mouth speech events motion and eyes/head tracking contact and response under facial detection/recognition process of computer vision.
-
-The bot operates individual unique memory content updated by interlocutor input in frames of the system legal code. The answer defines output for dialogue as a tool of reflective analysis by returning efferent recall from human-like machine cognitive function. Embodies autonomous companion simulator as trainable virtual teaching assistant and agent of compensatory intercourse for various interactive communication tasks.
-
-## Conversations
-
- The following video sessions represents interaction with Terbinari operating program artificial conversational entity training and dialogue model I/O QA system semantic processing algorithms with chat-bot interface and prototype humanoid robot CBM (Control Bot Mechanism) device.
-
-[***Robot head mouth mechanism - Terbinari CBM (conv 5)***](https://youtu.be/xZZ-RWoMQD4)
- 
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_5-comp.mp4)
-
-https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4
-
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/xZZ-RWoMQD4&rel=0) --->
-
-### Overview
-
- Operating program interface interacts with training and conversation slot, represents dialog processing models in text-to-text, text-to-voice, or voice-to-voice modes and robot control methods. 
- 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="600">
-
-Mechanical response provides tracking orientation and eye contact with user/interlocutor, as well as mouth device synchronization with speech motility events.
-
-[***Conversational robot - Terbinari CBM (conv 4)***](https://youtu.be/vxVBtnA5of8) 
-    
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_4-comp.mp4)
-     
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/vxVBtnA5of8&rel=0) --->
- 
-### Processing  
-
- The training and conversation model is close to the natural way of receiving information, asking for the question and answering, looking or requesting for the answer, filling memory with user/teacher interlocutor input, generating dialogue, following context, and content-based meaning (check reference: [Inference root/derivative noun algorithm](https://github.com/ladooniani/inference-root-derivative-noun/blob/main/README.md)).
- 
-Read about [Terbinari CBM Tet Operating program.]( https://github.com/ladooniani/terbinari-cbm/blob/main/README.md)
- 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="600">
-<!---<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-2.jpg" width="500">--->
- 
-[***Android robot - Terbinari CBM (conv 2)***](https://youtu.be/f801_bk9htc)
-   
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_2-comp.mp4)
-
-<video src="https://user-images.githubusercontent.com/33939191/161288910-7a4720d4-55cc-4098-abb2-19fcc1d48323.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288910-7a4720d4-55cc-4098-abb2-19fcc1d48323.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video> 
-
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/f801_bk9htc&rel=0) --->
-   
- Synthetic entity able to learn, interact and deepening abstraction by inherent characteristics as functionally surrounded void, that does not knows anything by default, able receive and use information, become perceptive carrier to reflect and inference informational knowledge in the natural way of dynamic conversation, prescribable for such tasks as the assistance of topical training, autism educational/therapy exercise, as well psycho-linguistics and synthetic psychology human-robot interaction experiment, or any other specific usage with a requirement of creating memory content with dialog model contextual scenario performance.
- 
-[***Robot chatbot - Terbinari CBM (conv 8)***](https://youtu.be/UsEniQiI9Xk)
-    
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_8-comp.mp4)
-       
-<!---  [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/UsEniQiI9Xk&rel=0) --->
-   
-### Functionality
-
-  Text analysis and operation control algorithms with multi-function chat-bot interface and head/eyes/mouth Control Bot Mechanism robot device with position/coordinate step receiver controller.
- 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-system.png" width="600">
- 
-  - Learn from communication and talk to the interlocutor, answer and ask with memory adding/editing option, providing functions control built-in conversation interface in frames of system legal code filter, receive and react to action commands by attached request.
-
-  - Operate as topic teacher e.g. with "astronomy" appeal, question contexts, and answer output.
-  
-  - Support conversation in text-to-text, text-to-voice, speech-to-voice with input pronunciation type chats and voice-to-voice speech recognition mode, operate in open training and close testing memory state, and speak with mouth lips viseme motility event.
-  
-  - See – detect, recognize introduced person, a track with eye contact and head orientation following interlocutor position, blinking eyelids.
-
- **Experimental robotic mechanism** 
- 
-Read about [Terbinari CBM (Control Bot Mechanism) robot device modular mechanisms](https://github.com/ladooniani/terbinari-cbm-parts/blob/main/README.md)
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-robot-device.png" width="600">
-
-[***Robot eye contact - Terbinari CBM (conv 7)***](https://youtu.be/H2O3pTNejW0)
-    
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_7-comp.mp4)
-
- <video src="https://user-images.githubusercontent.com/33939191/161288099-9b138ee8-19dc-4f44-94b9-0e25fce1bd98.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288099-9b138ee8-19dc-4f44-94b9-0e25fce1bd98.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video> 
-   
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/H2O3pTNejW0&rel=0) --->
-
-  Desktop application software installation provides access to chat-bot terminal and 6V CBM robot controller device with USB serial port connection, going through registration in Unit Network user profile access to local and server-based memory storage with using of Microsoft OS speech references and available system display language. 
-  
-  [***Trainable robot - Terbinari CBM (conv 6)***](https://youtu.be/oKQQEKq7pdc)
-  
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_6-comp.mp4)
-
-<video src="https://user-images.githubusercontent.com/33939191/161288376-743d5b57-00a9-4fc4-92ab-39f2c61bfba5.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288376-743d5b57-00a9-4fc4-92ab-39f2c61bfba5.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video> 
-  
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/oKQQEKq7pdc&rel=0) --->
-  
-**Prototype application compatibility and usage**
-
-  Particular Terbinari software implementation developed on Microsoft Windows OS platform with using of system speech synthesis/recognition references and external CV library output.
-  
-## Research
-  
-<!-- <img src="https://github.com/ladooniani/tailab/blob/master/assets/semiconductor-dump-lado-oniani-tai-lab.jpg" width="800"> -->
-    
-"Toy Artificial Intelligence" laboratory is founded as a non-profit scientific and engineering organization. Operates on an independent creative platform of experimental research in the fields of intelligent systems and mechanics, involves such areas as computational logic, cognitive science, mechanical design/engineering, and industrial/artistic design.
-
-***CBM v.0 - 2016***
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm-ver-0-2016.jpg" width="369">
-
-Implementation startup was started in 2016 with a multidisciplinary engineering approach, based on computing techniques in computational linguistics, automatic natural language processing, understanding and generation, the machine and robot learning, computer vision, and mechatronics concepts of inventor [Lado Oniani](https://github.com/ladooniani/resume-cv/blob/main/README.md).
-
-***CBM v.1 - 2018***
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-4.jpg" width="369">
-
-The development aims to create and investigate synthetic entity architecture and behavior, information processing algorithms, and operation control methods to design building blocks of learning/dialogue contextual association system, integrated with anthropomorphic humanoid and bio-inspired robotics architecture. 
-
-[***Interactive robot - Terbinari CBM (conv 3)***](https://youtu.be/tSrj2ZdIo80)
-
-[![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://gitlab.com/ladooniani/tailab/-/blob/main/video/Tet_conversation_3-comp.mp4)
-
-<video src="https://user-images.githubusercontent.com/33939191/161288753-713ea8ef-73e1-4f3a-991e-b6a9e0a24077.mp4" data-canonical-src="https://user-images.githubusercontent.com/33939191/161288753-713ea8ef-73e1-4f3a-991e-b6a9e0a24077.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video> 
-  
-<!--- [![video session](https://github.com/ladooniani/tailab/blob/master/assets/video.jpg)](https://youtu.be/tSrj2ZdIo80&rel=0) --->
-
-The conceptual vision of the research is to invent and implement prototype design of "AI robotic biome" application families infrastructure interactive network, embodied by artificial psychophysical mechanism processes and experimental environment installation interface.
-
-Invent custom assistive educational, therapeutic, social and humanitarian, interactive and robotic solution prototype, adaptable for specialized use with modeling and simulation conversational setup via a human-machine interface, behavior observation, study, development, optimization, and accumulation potentially derivative experiment.
-
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-3.jpg" width="500">
-
-## Download markdown pdf
-
-📃 [Download pdf](https://github.com/ladooniani/tailab/blob/master/docs/lado-oniani-terbinari-cbm-pro.pdf)
-
-<!-- 
-
-## 💖 Support project
-
-Your donation will help expand independent research workflow, improve the laboratory environment, and speed up the conceptual strategy process, which leads to more involved research in frames of related technology, forming an educational platform for creative/intellectual collaboration and search for other references.
-
-To support the project follow the donation link: 
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GRGH6SL9EL72U">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate with PayPal" /><br><br>
-</a>
-
---->
-
-To get updates from research workflow, please follow us on social networks and subscribe to [YouTube channel](https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q?view_as=subscriber) 
-
-  <a href="https://www.youtube.com/channel/UC0Z161RgR5KpwPLvEDzkk9Q/featured"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Youtube" height="20" style="vertical-align:top; margin:4px"></a>
-   <a href=" https://www.facebook.com/terbinari" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="20" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.instagram.com/terbinari_cbm/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="20" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/ArtificialToy" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="20" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.linkedin.com/company/tailab/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" style="vertical-align:top; margin:4px"></a>
-   
-## Lab
-
-### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
-
-<sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
-
-<sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
+The Terbinari software and device is a tool for interactive training and conversation, with the ability to learn, interact, and understand natural language. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
