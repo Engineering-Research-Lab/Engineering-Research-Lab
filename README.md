@@ -1,3 +1,5 @@
+# [Toy Artificial Intelligence lab.](https://github.com/ladooniani/terbinari/blob/main/README.md) 
+
 # Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: 
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg" width="400">
