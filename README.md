@@ -17,9 +17,7 @@ The Terbinari software and device is an artificial conversational entity that pe
 - The software supports conversation in text-to-text, text-to-voice, and speech-to-voice modes and can recognize voice input.
 - The robot control mechanism includes eye and head tracking, allowing for eye contact with the user, and lip synchronization with speech.
 
-<iframe width="500" height="300"
-src="[![video session](https://github.com/user/categ/blob/master/assets/video.jpg)](https://gitlab.com/user/categ/-/blob/main/video/conv-comp.mp4)">
-</iframe>
+[![video session](https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4){:height="600" width="800"}](https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4)
 
 ### System Requirements
 
