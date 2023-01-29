@@ -33,3 +33,19 @@ The Terbinari software and device is a tool for interactive training and convers
 ### Research on Artificial Intelligence and Robotics 
 
 The project began in 2016 with a focus on multidisciplinary engineering, utilizing techniques in computational linguistics, natural language processing, machine and robot learning, computer vision, and mechatronics. The goal of the research is to design and investigate synthetic entity architecture, information processing algorithms, and control methods to create building blocks for a learning and dialogue system, integrated with humanoid and bio-inspired robotics. The aim is to invent a prototype design with a focus on assistive, educational, and therapeutic applications through a human-machine interface.
+
+https://user-images.githubusercontent.com/33939191/215345194-faf55f90-1e70-45e1-9a2b-b7fa7a802e75.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
