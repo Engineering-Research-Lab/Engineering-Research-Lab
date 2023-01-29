@@ -6,6 +6,8 @@ The Terbinari software and device is an artificial conversational entity that pe
 
 ### Functionality
 
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="400">
+
 - The software is able to learn, interact, and deepen its understanding through communication with its user/interlocutor.
 - It can operate as a topic teacher, such as in the field of astronomy, and answer questions based on its stored memory.
 - The software supports conversation in text-to-text, text-to-voice, and speech-to-voice modes and can recognize voice input.
