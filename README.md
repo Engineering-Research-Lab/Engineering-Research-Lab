@@ -19,6 +19,11 @@ The Terbinari software and device is an artificial conversational entity that pe
 
 [![video session](https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4){:height="300" width="500"}](https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4)
 
+<div style="width: 800px; height: 600px;">
+  <video src="https://user-images.githubusercontent.com/33939191/161274951-65082fac-2aa9-4578-bc5d-6d18ee6243cb.mp4" width="100%" height="100%" controls>
+  </video>
+</div>
+
 ### System Requirements
 
 The Terbinari software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
