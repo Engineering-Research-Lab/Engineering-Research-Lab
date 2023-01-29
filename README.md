@@ -1,7 +1,8 @@
+# Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: 
 
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg" width="400">
-  
-## Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: A Summary of the Terbinari Operating System
+ 
+## A Summary of the Terbinari Operating System
 
 ### Introduction
 
