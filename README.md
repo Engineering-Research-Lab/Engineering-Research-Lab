@@ -13,7 +13,7 @@ The Terbinari software and device is an artificial conversational entity that pe
 
 ### Functionality
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm.jpg" width="700">
 
 - The software is able to learn, interact, and deepen its understanding through communication with its user/interlocutor.
 - It can operate as a topic teacher, such as in the field of astronomy, and answer questions based on its stored memory.
@@ -30,7 +30,7 @@ The robot control device is powered by a 6V power supply and connects to the com
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="400">
 -->
 
-<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm1-2.jpg" width="600">
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm1-2.jpg" width="700">
 
 ### Conclusion
 
