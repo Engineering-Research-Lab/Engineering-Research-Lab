@@ -24,6 +24,8 @@ The Terbinari software and device is an artificial conversational entity that pe
 The Terbinari software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 The robot control device is powered by a 6V power supply and connects to the computer via USB serial port.
 
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="400">
+
 ### Conclusion
 
 The Terbinari software and device is a tool for interactive training and conversation, with the ability to learn, interact, and understand natural language. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
