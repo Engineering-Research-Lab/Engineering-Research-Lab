@@ -2,6 +2,9 @@
 <!--
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg" width="400">
 --> 
+
+https://user-images.githubusercontent.com/33939191/215345194-faf55f90-1e70-45e1-9a2b-b7fa7a802e75.mp4
+
 ## A Summary of the Terbinari Operating System
 
 ### Introduction
@@ -26,8 +29,6 @@ The robot control device is powered by a 6V power supply and connects to the com
 <!--
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="400">
 -->
-
-https://user-images.githubusercontent.com/33939191/215345194-faf55f90-1e70-45e1-9a2b-b7fa7a802e75.mp4
 
 ### Conclusion
 
