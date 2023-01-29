@@ -1,4 +1,4 @@
-[<img alt="TAI lab" width="69px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai-logo-mx.png" />](https://github.com/ladooniani/terbinari/blob/main/README.md) 
+[<img alt="TAI lab" width="39px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai-logo-mx.png" />](https://github.com/ladooniani/terbinari/blob/main/README.md) 
    
 # Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: 
 
