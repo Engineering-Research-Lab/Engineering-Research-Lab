@@ -1,7 +1,7 @@
 # Exploring the Capabilities of a Humanoid Robot with a Natural Language Interface: 
-
+<!--
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-1.jpg" width="400">
- 
+--> 
 ## A Summary of the Terbinari Operating System
 
 ### Introduction
@@ -23,9 +23,9 @@ https://user-images.githubusercontent.com/33939191/215340711-70843c12-77fa-450c-
 
 The Terbinari software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 The robot control device is powered by a 6V power supply and connects to the computer via USB serial port.
-
+<!--
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="400">
-
+-->
 ### Conclusion
 
 The Terbinari software and device is a tool for interactive training and conversation, with the ability to learn, interact, and understand natural language. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
