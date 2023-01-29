@@ -30,6 +30,8 @@ The robot control device is powered by a 6V power supply and connects to the com
 <img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-tet-cbm-0.jpg" width="400">
 -->
 
+<img src="https://github.com/ladooniani/tailab/blob/master/assets/terbinari-cbm1-2.jpg" width="600">
+
 ### Conclusion
 
 The Terbinari software and device is a tool for interactive training and conversation, with the ability to learn, interact, and understand natural language. Its robot control mechanism provides a unique and engaging experience for users, making it well-suited for use in educational and therapeutic settings, as well as for human-robot interaction research.
