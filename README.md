@@ -1,6 +1,3 @@
-<!---## Toy Artificial Intelligence (TAI) Lab. 
-#### Experimental Research and Development in Software and Mechanical Engineering for Intelligent Systems, Robotics, and Design.
---->
 ## Engineering Research Lab
 #### Experimental Research and Development in Software and Mechanical Engineering for Artificial Intelligence, Robotics, and Design
 ### Content
