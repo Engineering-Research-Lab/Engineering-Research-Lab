@@ -43,7 +43,10 @@ The Humanoid Robot software and device is an artificial conversational entity th
 The CBM software is designed to be compatible with Microsoft Windows operating systems and requires speech synthesis/recognition references.
 The robot control device is powered by a 6V power supply and connects to the computer via USB serial port.
 
+#
+
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab_CBM-Project.pdf)
 
+<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab" >Lado Oniani Software Research</a>. All rights reserved.</sub>
 
  
