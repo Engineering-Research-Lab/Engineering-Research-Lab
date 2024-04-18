@@ -6,6 +6,7 @@
 ### Content
 #### PDF Documents
  - [PDF Documents](https://github.com/Engineering-Research-Lab/Workflow-Documentation/tree/main/Docs/PDF)
+ - [Workflow Documentation](https://github.com/Engineering-Research-Lab/Workflow-Documentation)
 #### Document (md)
  - [Laboratory](https://github.com/Engineering-Research-Lab/Engineering-Research-Lab/blob/main/Documentation/Project/Engineering-Research-Lab.md)
  - [Startup](https://github.com/Toy-Artificial-Intelligence-lab/Documentation/blob/main/Docs/Project/laboratory-startup.md)
