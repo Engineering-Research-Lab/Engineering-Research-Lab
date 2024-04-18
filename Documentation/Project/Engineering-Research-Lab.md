@@ -22,6 +22,7 @@ The workflow of our virtual laboratory primarily revolves around modeling and si
 We prioritize a technical and conceptual approach that emphasizes lightweight, compact, and easy-to-assemble designs. Our objective is to utilize a minimal number of actuators and minimize energy consumption. This is achieved through the implementation of mechanical and mechatronic modular devices, along with efficient operational control solutions.
 
 Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
-📌 [Download PDF copy](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
+
+📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
 
 
