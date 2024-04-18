@@ -23,7 +23,9 @@
  - [VCM (Vision Control Motility Method/Mechanism) device](https://github.com/ladooniani/VCM/blob/main/README.md)
 #### Repository
  - [Terbinari operating program]( https://github.com/ladooniani/Terbinari-CBM-Tet)
- - [Inference root algorithm](https://github.com/ladooniani/inference-root-algorithm)
+<!---
+ - [Inference root algorithm](https://github.com/ladooniani/inference-root-algorithm) \
+--->
  - [Controller (Terbinari CBM SVM/UCS VCM/XYL3/2 calibrator)](https://github.com/ladooniani/cbm-controller-calibrator)
  - [Terbinari CBM robot controller](https://github.com/ladooniani/terbinari-cbm-controller)
 
