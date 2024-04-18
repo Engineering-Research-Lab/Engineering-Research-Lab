@@ -23,6 +23,8 @@ We prioritize a technical and conceptual approach that emphasizes lightweight, c
 
 Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
 
+#
+
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
 
-
+<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab" >Lado Oniani Software Research</a>. All rights reserved.</sub>
