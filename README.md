@@ -23,6 +23,8 @@
  - [Terbinari operating program]( https://github.com/ladooniani/Terbinari-CBM-Tet)
  - [Controller (Terbinari CBM SVM/UCS VCM/XYL3/2 calibrator)](https://github.com/ladooniani/cbm-controller-calibrator)
  - [Terbinari CBM robot controller](https://github.com/ladooniani/terbinari-cbm-controller)
+#### Topic
+ - [Artificial Intelligence](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/Topic/Artificial-Intelligence.md)
 
 <!---
  - [Inference root algorithm](https://github.com/ladooniani/inference-root-algorithm) \
