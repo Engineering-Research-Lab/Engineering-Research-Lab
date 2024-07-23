@@ -9,6 +9,7 @@
  - [Startup](https://github.com/Toy-Artificial-Intelligence-lab/Documentation/blob/main/Docs/Project/laboratory-startup.md)
 #### Project (md)
  - [CBM Project](https://github.com/Engineering-Research-Lab/Engineering-Research-Lab/blob/main/Documentation/Project/CBM-Project.md)
+ - [CBM BPQ-1](https://github.com/Engineering-Research-Lab/Modular-Robot-Head/blob/main/README.md)
  - [CBM Presentation](https://github.com/Toy-Artificial-Intelligence-lab/Documentation/blob/main/Docs/Project/cbm-presentation.md)
 #### Description of Data Archive (md)
  - [CBM Robot Device Modular Mechanisms Description](https://github.com/ladooniani/terbinari-cbm-parts/blob/main/README.md)
