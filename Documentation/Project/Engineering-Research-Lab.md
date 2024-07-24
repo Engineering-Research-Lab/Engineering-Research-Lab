@@ -23,13 +23,7 @@ The workflow of our virtual laboratory primarily revolves around modeling and si
 We prioritize a technical and conceptual approach that emphasizes lightweight, compact, and easy-to-assemble designs. Our objective is to utilize a minimal number of actuators and minimize energy consumption. This is achieved through the implementation of mechanical and mechatronic modular devices, along with efficient operational control solutions.
 
 Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
-
-### Laboratory Robotic Development Strategy and Concept
-
-The laboratory develops modular robotic systems, focusing on versatile, customizable components for various applications. By creating individual robotic parts, like robot heads, the lab ensures seamless integration and essential functionality across different systems. These modules offer basic to advanced features, enhancing the versatility of robotic applications.
-
-The development process emphasizes originality, with custom software, logic development, and algorithms created from scratch. This strategy allows robots to be built part by part, each module embodying unique methodologies and technologies. These adaptable modules can be used in specific systems or other robotic platforms, showcasing the laboratory's research and production capabilities' versatility and innovation.
-
+ 
 #
 
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
