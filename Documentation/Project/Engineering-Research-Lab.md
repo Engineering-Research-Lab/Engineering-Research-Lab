@@ -25,9 +25,10 @@ We prioritize a technical and conceptual approach that emphasizes lightweight, c
 Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
 
 ### Laboratory Robotic Development Strategy and Concept
-Our laboratory focuses on the development of modular robotic systems, designed to provide versatile and customizable components for various applications. The core idea is to create individual robotic parts, such as robot heads, that can seamlessly integrate with different systems while delivering essential functionalities. These modules offer a range of basic and advanced features, making them ideal for integration with other systems and enhancing the overall versatility of robotic applications.
 
-Our development process emphasizes originality, with custom software, logic development, and algorithms created from scratch. This strategy allows us to build robots part by part, each module embodying our unique methodologies and technologies. These modules are not only designed for our specific robotic systems but are also adaptable for use in other robotic platforms, showcasing the versatility and innovation of our laboratory's research and production capabilities.
+The laboratory develops modular robotic systems, focusing on versatile, customizable components for various applications. By creating individual robotic parts, like robot heads, the lab ensures seamless integration and essential functionality across different systems. These modules offer basic to advanced features, enhancing the versatility of robotic applications.
+
+The development process emphasizes originality, with custom software, logic development, and algorithms created from scratch. This strategy allows robots to be built part by part, each module embodying unique methodologies and technologies. These adaptable modules can be used in specific systems or other robotic platforms, showcasing the laboratory's research and production capabilities' versatility and innovation.
 
 #
 
