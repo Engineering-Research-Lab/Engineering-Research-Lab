@@ -5,6 +5,7 @@
  - [Experimental Development](#Experimental-Development)
  - [Conceptual Vision](#Conceptual-Vision)
  - [Engineering Approach](#Engineering-Approach)
+ - [Laboratory Robotic Development Strategy and Concept](#Laboratory-Robotic-Development-Strategy-and-Concept)
 ### Approach and Goals:
 Our laboratory is a multidisciplinary research platform that specializes in experimental development and self-education, primarily focusing on software engineering, mechanical engineering, and industrial design. Our conceptual vision revolves around inventing and implementing prototype designs for robotic platform development, mechatronic and robotics devices, artificial entities, and AI applications. This involves designing algorithms and implementing methods and techniques in machine learning, deep learning, natural language processing, computer vision, environmental and peripheral web and desktop application infrastructure, and interactive network systems. We strive to create an artificial psychophysical mechanism and an experimental environment installation interface. Our overarching goal is to invent custom assistive educational, therapeutic, social, humanitarian, interactive, and robotic solutions that are adaptable for specialized uses.
 
@@ -22,6 +23,11 @@ The workflow of our virtual laboratory primarily revolves around modeling and si
 We prioritize a technical and conceptual approach that emphasizes lightweight, compact, and easy-to-assemble designs. Our objective is to utilize a minimal number of actuators and minimize energy consumption. This is achieved through the implementation of mechanical and mechatronic modular devices, along with efficient operational control solutions.
 
 Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
+
+### Laboratory Robotic Development Strategy and Concept
+Our laboratory focuses on the development of modular robotic systems, designed to provide versatile and customizable components for various applications. The core idea is to create individual robotic parts, such as robot heads, that can seamlessly integrate with different systems while delivering essential functionalities. These modules offer a range of basic and advanced features, making them ideal for integration with other systems and enhancing the overall versatility of robotic applications.
+
+Our development process emphasizes originality, with custom software, logic development, and algorithms created from scratch. This strategy allows us to build robots part by part, each module embodying our unique methodologies and technologies. These modules are not only designed for our specific robotic systems but are also adaptable for use in other robotic platforms, showcasing the versatility and innovation of our laboratory's research and production capabilities.
 
 #
 
