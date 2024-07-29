@@ -5,7 +5,7 @@
  - [Experimental Development](#Experimental-Development)
  - [Conceptual Vision](#Conceptual-Vision)
  - [Engineering Approach](#Engineering-Approach)
- - [Laboratory Robotic Development Strategy and Concept](#Laboratory-Robotic-Development-Strategy-and-Concept)
+
 ### Approach and Goals:
 Our laboratory is a multidisciplinary research platform that specializes in experimental development and self-education, primarily focusing on software engineering, mechanical engineering, and industrial design. Our conceptual vision revolves around inventing and implementing prototype designs for robotic platform development, mechatronic and robotics devices, artificial entities, and AI applications. This involves designing algorithms and implementing methods and techniques in machine learning, deep learning, natural language processing, computer vision, environmental and peripheral web and desktop application infrastructure, and interactive network systems. We strive to create an artificial psychophysical mechanism and an experimental environment installation interface. Our overarching goal is to invent custom assistive educational, therapeutic, social, humanitarian, interactive, and robotic solutions that are adaptable for specialized uses.
 
