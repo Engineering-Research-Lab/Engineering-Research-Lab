@@ -31,4 +31,4 @@ The modular nature of our systems supports adaptability and integration into oth
 <!---
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
 --->
-<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab" >Lado Oniani Software Research</a>. All rights reserved.</sub>
+<sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab" >Lado Oniani Engineering Research</a>. All rights reserved.</sub>
