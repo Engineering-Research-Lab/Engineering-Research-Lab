@@ -20,12 +20,15 @@ The laboratory serves as a multidisciplinary research platform dedicated to expe
 The workflow of our virtual laboratory primarily revolves around modeling and simulating conversational setups via a human-machine interface. We focus on studying, developing, optimizing, and accumulating potentially derivative experiments. Our objective is to establish a prototyping environment conducive to inventing and developing devices by designing algorithms and implementing methods. Additionally, our process includes managing work data, graphics, and game development.
 
 ### Engineering Approach
-We prioritize a technical and conceptual approach that emphasizes lightweight, compact, and easy-to-assemble designs. Our objective is to utilize a minimal number of actuators and minimize energy consumption. This is achieved through the implementation of mechanical and mechatronic modular devices, along with efficient operational control solutions.
 
-Focused on minimal hardware, our emphasis lies on the robot and its minimal OS, comprising code libraries for core functions as constructor modules. The design prioritizes softness and hardware minimization, making it ideal for low-budget implementations and startups. The modular nature of the robot head allows for further development or integration into separate projects.
- 
+Our laboratory specializes in developing modular systems with customizable components that ensure seamless integration and functionality across various applications. We focus on creating lightweight, compact, and easy-to-assemble designs using minimal components. This approach emphasizes efficiency and versatility through mechanical and mechatronic modular devices.
+
+Our designs incorporate custom software and algorithms to embody unique methodologies and technologies. We prioritize minimizing hardware and energy consumption while implementing efficient operational control solutions. This includes a streamlined OS and core function code libraries that facilitate further development and integration.
+
+The modular nature of our systems supports adaptability and integration into other projects, making them ideal for low-budget implementations and startups. Our emphasis on soft design and hardware minimization ensures that each system is both cost-effective and adaptable to evolving needs.
+
 #
-
+<!---
 📌 [Download PDF](https://github.com/Engineering-Research-Lab/Workflow-Documentation/blob/main/Docs/PDF/Engineering-Research-Lab.pdf)
-
+--->
 <sub>Copyright © 2016-2024 <a href="https://github.com/Engineering-Research-Lab" >Lado Oniani Software Research</a>. All rights reserved.</sub>
